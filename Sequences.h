@@ -2,15 +2,16 @@
 
 // glosary
 /*
-    Files: Sequences.h   [Contains struct, functions prototypes and glosary]
-           Sequences.cpp [Have functions definition]
-           main.cpp      [Contains the main funcion]
+    Files: Sequences.h   [Struct, functions prototypes and glosary]
+           Sequences.cpp [Functions definition]
+           main.cpp      [main funcion]
     
-    Purpose: A program that take a file of random numbers, normalize them.
-             Then get the mean, standard deviation.
-             Save that progress and then using Bubble and Selection Sorting
-             Algorithms to rearrange the sequences to save in at the buttom
+    Purpose: A program that takes a file of random numbers and normalize them.
+             Then get the mean and standard deviation.
+             Save that progress and then use Bubble and Selection Sorting
+             algorithms to rearrange the sequences to save them at the bottom
              in the same file.
+
 
 
  * ***********
